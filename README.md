@@ -1,4 +1,4 @@
-# Home-Environment-Classification-Problem-Problem
+# Home-Environment-Classification-Problem
 The goal of this project is to solve a classification problem regarding objects
 in a home environment, coming from 8 major classes: containers, tableware,
 drinks, cutlery, fruits, snacks, food, cleaning stuf
